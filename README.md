@@ -5,7 +5,6 @@
 
 Hi there! 🙋🏻‍♀️
 
-I'm Jaeyoung Park.  
 I'm an undergraduate student majoring in _Information Technology Management_   
 at Seoul National University of Science and Technology. 🙃
 
