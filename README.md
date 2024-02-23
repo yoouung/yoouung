@@ -5,7 +5,7 @@
 
 Hi there! 🙋🏻‍♀️
 
-I'm an undergraduate student majoring in _Information Technology Management_   
+I'm graduated from _Information Technology Management_   
 at Seoul National University of Science and Technology. 🙃
 
 Let's build the future together!
