@@ -21,7 +21,7 @@ active in learning new knowledge and applying it.
 
 <br/>
 
-Let's build happy coding days! 🚀
+Let's build happy coding days together! 🚀
 
 </div>
 
