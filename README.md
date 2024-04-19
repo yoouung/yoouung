@@ -3,11 +3,13 @@
 
 ## welcome to yoouung   :)
 
+</div>
+
 Hi there! 🙋🏻‍♀️
 
-I am a  
+I AM  
 📖 __lifelong learner__,  
-active in learning new knowledge and applying it.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; active in learning new knowledge and applying it.  
 🙌🏻 __people person__,  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; good at communicating and collaborating with people from various backgrounds.  
 😇 __positive person__,  
@@ -16,6 +18,3 @@ active in learning new knowledge and applying it.
 <br/>
 
 Let's build happy coding days together! 🚀
-
-</div>
-
