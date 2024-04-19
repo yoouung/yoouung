@@ -5,13 +5,7 @@
 
 Hi there! 🙋🏻‍♀️
 
-🎓 I am graduated from  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🇰🇷  _IT Management_ at Seoul National University of Science and Technology, Korea.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🇬🇧 _ITM for Business_ at Northumbria University, UK. (dual degree)
-
-<br/>
-
-and I am a  
+I am a  
 📖 __lifelong learner__,  
 active in learning new knowledge and applying it.  
 🙌🏻 __people person__,  
