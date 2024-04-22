@@ -6,8 +6,12 @@
 
 Hi there! 🙋🏻‍♀️
 
-I AM A  
-📖 **lifelong learner**,  
+<br/>
+
+
+**I AM A**  
+
+📖 __lifelong learner__,  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; active in learning new knowledge and applying it.  
 🙌🏻 **people person**,  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; good at communicating and collaborating with people from various backgrounds.  
@@ -16,7 +20,7 @@ I AM A
 
 <br/>
 
-I USE
+__I USE__
 
 <div style="display:flex;gap:10px;flex-wrap:wrap;">
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
