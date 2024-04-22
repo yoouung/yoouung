@@ -1,20 +1,32 @@
 <div align="center">
 
-
-## welcome to yoouung   :)
+## welcome to yoouung :)
 
 </div>
 
 Hi there! 🙋🏻‍♀️
 
-I AM  
-📖 __lifelong learner__,  
+I AM A  
+📖 **lifelong learner**,  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; active in learning new knowledge and applying it.  
-🙌🏻 __people person__,  
+🙌🏻 **people person**,  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; good at communicating and collaborating with people from various backgrounds.  
-😇 __positive person__,  
+😇 **positive person**,  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; face challenges with a positive attitude, and derive creative solutions in the problem-solving process.
 
+<br/>
+
+I USE
+
+<div style="display:flex;gap:10px;flex-wrap:wrap;">
+    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+    <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+</div>
+
+<br/>
 <br/>
 
 Let's build happy coding days together! 🚀
