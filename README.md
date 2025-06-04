@@ -1,48 +1,45 @@
 <div align="center">
 
-## WELCOME TO YOOUUNG :)
+  ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=11111&text=Park%20Jae%20Young%20&desc=Jamie&height=150&fontSize=25&fontAlignY=30&descSize=20)
+
+  화면 구현을 너머 사용성을 고민하는 <br/>프론트엔드 개발자 <strong>박재영</strong>입니다.
+
 
 </div>
 
-<br/>
-
-### ABOUT ME
-
-**📖 Lifelong Learner**
-
-새로운 경험을 통해 성장하는 것을 가치 있게 여기며, 기술을 배우고 이를 적용하는 것에 대한 큰 열정을 가지고 있습니다. 변화하는 기술 트렌드에 발 맞추어 지속적으로 학습하며 더 나은 사용자 경험을 제공하는 웹 개발자가 되고자 합니다.
-
-**🙌🏻 People Person**
-
-사람과의 교류를 즐기는 저는, 다양한 배경과 전문 분야를 가진 사람들과 원활하게 소통하고 협력하는 데 능숙합니다. 다른 개발자들, 프로젝트 관리자, 디자이너의 협업을 통해, 프로젝트의 성공에 기여합니다.
-
-**✨ Positive**
-
-긍정적인 태도를 유지합니다. 문제가 발생했을 때, 절망하기 보다는 해결책을 찾는 데 집중합니다. 창의적이고 효율적인 해결책을 도출하는 과정에서, 팀 내에서 동기 부여와 긍정적인 분위기 조성에 기여합니다.
-
-<br/>
-
-### SKILLS
-
-**I USE**
-
-<div style="display:flex;gap:10px;flex-wrap:wrap;">
-  <img src="https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=black">
-  <img src="https://img.shields.io/badge/react-61dbfb?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
-
-<br/>
-
-**ONCE I'VE USED**
-
-<div>
- <img src="https://img.shields.io/badge/node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=Python&logoColor=white">
-</div>
 
 <br/>
 <br/>
 
-Let's build happy coding days together! 🚀
+### 🚀 Skills & Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React-61dbfb?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  
+</p>
+
+<br/>
+
+### 💼 Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [🔗 Wooco](https://github.com/yoouung/wooco-fe) | 지역 기반 놀거리 아카이빙 서비스 | Next.js, TypeScript, Tailwind CSS, Zustand, TanStack Query, Kakao Map API |
+| [🔗 DAO](https://github.com/yoouung/dao-fe) | 3D 모델 기반 추억 공유 SNS | Next.js, TypeScript, Three.js, Zustand, STOMP, TanStack Query, React |
+| [🔗 P-Helper](https://github.com/yoouung/CapstoneProject-Afterwards) | 웹 기반 비정형 데이터 정제 도구 | React, JavaScript, Styled Components, IndexedDB |
+
+
+<br/>
+
+### 📊 Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoouung&theme=ayu-mirage&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![yoouung](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoouung)](https://solved.ac/yoouung)
