@@ -41,5 +41,4 @@
 
 ### 📊 Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoouung&theme=ayu-mirage&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 [![yoouung](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoouung)](https://solved.ac/yoouung)
